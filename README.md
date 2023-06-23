@@ -99,7 +99,7 @@ $ ./npm run dev
 * Github: [@aestera](https://github.com/aestera)
 
 
-👤 **twOn3**
+👤 **tw0n3**
 
 
 * Github: [@twOn3](https://github.com/twOn3)
